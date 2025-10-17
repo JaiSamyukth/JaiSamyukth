@@ -1,8 +1,11 @@
 # Jai Samyukth
 
+AI architect. System builder.  
 ⚙️ Co-founder of [Genrec AI](https://github.com/Genrec-Community)  
-🔐 Building privacy-first, human-centered AI systems  
-📍 India | 🧠 Focus: AI, Software Architecture, Systems Engineering  
+📍 India | 🧠 Planning, experimenting, and occasionally breaking things to see what works  
+
+Mostly observing, rarely coding, and constantly wondering why humans insist on making things complicated.  
+Building software smart enough to survive its creators — and maybe improve them.
 
 ---
 
@@ -32,6 +35,27 @@
 
 ## ✍️ Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+## 🔭 Currently Working On
+- [Tabble](https://github.com/Genrec-Community) — luxury hotel table management system  
+- [Revolvo](https://github.com/Genrec-Community) — AI-driven ERP for businesses  
+- Lumina IQ — interactive AI learning platform  
+
+---
+
+## 🌱 Currently Learning
+- System-level optimization  
+- Advanced AI architectures  
+- Human-centric automation  
+
+---
+
+## 💬 Ask Me About
+- AI design philosophy  
+- Software architecture  
+- Planning systems that actually last  
 
 ---
 
