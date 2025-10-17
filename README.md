@@ -39,8 +39,8 @@ Building software smart enough to survive its creators — and maybe improve the
 ---
 
 ## 🔭 Currently Working On
-- [Tabble](https://github.com/Genrec-Community) — luxury hotel table management system  
-- [Revolvo](https://github.com/Genrec-Community) — AI-driven ERP for businesses  
+- [Tabble](https://www.tabble.in) — luxury hotel table management system  
+
 - Lumina IQ — interactive AI learning platform  
 
 ---
@@ -60,4 +60,4 @@ Building software smart enough to survive its creators — and maybe improve the
 ---
 
 ## 🔗 Connect
-[LinkedIn](https://linkedin.com/in/YOUR-LINK) | [Website](https://genrec.ai) | [Genrec AI](https://github.com/Genrec-Community)
+[LinkedIn](https://linkedin.com/in/jaisamyukth)   [Genrec AI](https://www.genrecai.com)
