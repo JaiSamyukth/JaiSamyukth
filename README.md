@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,40:2563EB,100:06B6D4&text=Jai%20Samyukth&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=AI+Product+Engineer;Founder+at+Genrec+AI;Building+Products,+Not+Tutorials;Cloud+%E2%80%A2+Systems+%E2%80%A2+AI;Shipping+Ideas+Into+Reality"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Product+Engineer;AI+Application+Engineer;Cloud+Deployment+Engineer;Co-founder+at+Genrec+AI;Cloud+%E2%80%A2+Systems+%E2%80%A2+AI;Shipping+Ideas+Into+Reality"/>
 
 <br>
 
