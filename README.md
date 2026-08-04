@@ -368,28 +368,9 @@ when you touch grass less.
 
 ---
 
-# Philosophy
-
-<div align="center">
-
-> **Software shouldn't compete for attention.**
->
-> It should quietly remove friction.
->
-> If the AI gets all the praise,
-> the product probably isn't doing enough.
-
-</div>
-
----
-
 # Today's Quote
 
 <div align="center">
-
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote)
-
 
 <img width="850" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
