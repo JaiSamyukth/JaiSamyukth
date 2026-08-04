@@ -368,16 +368,6 @@ when you touch grass less.
 
 ---
 
-# Today's Quote
-
-<div align="center">
-
-<img width="850" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
 # Beyond Code
 
 <table>
@@ -434,7 +424,15 @@ Most of them end with
 | **🚀 Genrec AI** | Building products where AI is a capability, not the marketing department. |
 
 ---
+# Today's Quote
 
+<div align="center">
+
+<img width="850" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
 # Connect
 
 <div align="center">
