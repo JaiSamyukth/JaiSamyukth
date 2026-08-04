@@ -291,13 +291,6 @@ Not how software should revolve around AI.
 
 </p>
 
-<sub>
-I don't believe in language wars.
-
-Every language is brilliant somewhere,
-and mildly annoying everywhere else.
-</sub>
-
 ---
 
 ### Frontend
@@ -308,11 +301,6 @@ and mildly annoying everywhere else.
 
 </p>
 
-<sub>
-Users remember how software feels.
-
-They rarely remember the framework.
-</sub>
 
 ---
 
@@ -323,13 +311,6 @@ They rarely remember the framework.
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/>
 
 </p>
-
-<sub>
-If the backend is doing its job,
-nobody notices.
-
-That's usually a compliment.
-</sub>
 
 ---
 
@@ -345,12 +326,6 @@ That's usually a compliment.
 
 </p>
 
-<sub>
-AI shouldn't be the headline.
-
-It should quietly make the product smarter.
-</sub>
-
 ---
 
 ### Database
@@ -361,11 +336,6 @@ It should quietly make the product smarter.
 
 </p>
 
-<sub>
-Good databases answer questions.
-
-Great ones prevent them.
-</sub>
 
 ---
 
@@ -377,13 +347,6 @@ Great ones prevent them.
 
 </p>
 
-<sub>
-Deploy once.
-
-Sleep better.
-
-Repeat until something catches fire.
-</sub>
 
 ---
 
@@ -394,10 +357,6 @@ Repeat until something catches fire.
 <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode"/>
 
 </p>
-
-<sub>
-The best tool is whichever one lets me forget it exists.
-</sub>
 
 ---
 
