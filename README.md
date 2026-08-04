@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://www.jaisamyukth.com">
+<a href="https://jaisamyukth.genrecai.com">
 <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -138,52 +138,6 @@ instead of scavenger hunts.
 
 </tr>
 
-<tr>
-
-<td width="50%" valign="top">
-
-## 📚 Revolvo
-
-Your company's knowledge shouldn't disappear
-because someone closed Chrome.
-
-Private by default.
-
-Offline when it matters.
-
-Cloud only when it earns the right.
-
-**Highlights**
-
-- Offline AI
-- Local RAG
-- Enterprise Search
-- Knowledge that stays yours
-
-**Stack**
-
-`Python`
-`FastAPI`
-`Vector DB`
-`Local LLM`
-
-**Status**
-
-🟡 Quietly plotting against unnecessary cloud bills.
-
-<br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/JaiSamyukth">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
 
 ## 🚀 Genrec AI
 
