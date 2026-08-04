@@ -32,15 +32,17 @@
 
 ---
 
-# Building systems people forget are powered by AI.
+# Professional builder of things nobody asked for.
+### Until they start using them.
 
-I design products before features.
+Some people collect certifications.
 
-I build infrastructure before hype.
+I collect problems annoying enough that I can't ignore.
 
-Founder of **Genrec AI**, focused on creating software that quietly solves difficult problems.
+Co-founder of **Genrec AI**.
 
-More interested in shipping useful systems than collecting frameworks.
+Currently convincing computers to do more work,
+so people don't have to.
 
 <br>
 
@@ -55,17 +57,20 @@ More interested in shipping useful systems than collecting frameworks.
 
 ## 🍽 Tabble
 
-Luxury restaurant operating platform.
+Restaurants already know how to cook.
 
-Built for premium dining experiences instead of traditional POS software.
+I'm just trying to stop software from getting in their way.
+
+Turns out the hardest thing in a restaurant
+shouldn't be the software.
 
 **Highlights**
 
-- Customer tablets
-- Kitchen dashboard
-- ERP integration
-- Multi-role architecture
-- Cloud deployment
+- Customer tablets that don't fight the customer
+- Kitchen dashboards built for kitchens, not boardrooms
+- ERP integration without spreadsheet gymnastics
+- Multi-role workflows that actually make sense
+- Cloud-native from day one
 
 **Stack**
 
@@ -76,7 +81,7 @@ Built for premium dining experiences instead of traditional POS software.
 
 **Status**
 
-🟢 Active Development
+🟢 Making restaurants hate their old software.
 
 <br>
 
@@ -94,20 +99,19 @@ Built for premium dining experiences instead of traditional POS software.
 
 ## 🧠 Lumina IQ
 
-An AI workspace built for learning instead of searching.
+Reading giant PDFs builds patience.
 
-Upload PDFs.
+Remembering where everything was shouldn't.
 
-Chat naturally.
-
-Remember forever.
+Lumina turns documents into conversations,
+instead of scavenger hunts.
 
 **Highlights**
 
-- AI PDF Chat
-- Memory Engine
-- Long-context Learning
-- Knowledge Retrieval
+- AI PDF conversations
+- Long-term memory
+- Context-aware answers
+- Retrieval that actually retrieves
 
 **Stack**
 
@@ -118,7 +122,7 @@ Remember forever.
 
 **Status**
 
-🟢 Private Development
+🟢 Busy teaching PDFs better communication skills.
 
 <br>
 
@@ -140,18 +144,21 @@ Remember forever.
 
 ## 📚 Revolvo
 
-Privacy-first offline AI library.
+Your company's knowledge shouldn't disappear
+because someone closed Chrome.
 
-Enterprise knowledge should stay inside the company.
+Private by default.
 
-Not somewhere on someone else's GPU.
+Offline when it matters.
+
+Cloud only when it earns the right.
 
 **Highlights**
 
 - Offline AI
 - Local RAG
 - Enterprise Search
-- Secure Knowledge Base
+- Knowledge that stays yours
 
 **Stack**
 
@@ -162,7 +169,7 @@ Not somewhere on someone else's GPU.
 
 **Status**
 
-🟡 Research & Development
+🟡 Quietly plotting against unnecessary cloud bills.
 
 <br>
 
@@ -180,18 +187,18 @@ Not somewhere on someone else's GPU.
 
 ## 🚀 Genrec AI
 
-Building intelligent software that feels invisible.
+We're not trying to build another AI company.
 
-Not another AI wrapper.
+We're trying to build software that quietly happens to be intelligent.
 
-Products designed around real workflows.
+There's a difference.
 
 **Focus**
 
-- AI Products
-- Automation
-- Developer Tools
-- Enterprise Software
+- Products before platforms
+- Automation before repetition
+- Systems before hype
+- Real users before vanity metrics
 
 **Stack**
 
@@ -202,7 +209,7 @@ Products designed around real workflows.
 
 **Status**
 
-🟢 Building
+🟢 Building today so tomorrow feels obvious.
 
 <br>
 
@@ -231,11 +238,7 @@ Products designed around real workflows.
 
 ### Building
 
-AI-first operating systems
-
-Enterprise products
-
-Cloud infrastructure
+Software that removes work instead of adding features.
 
 </td>
 
@@ -243,11 +246,9 @@ Cloud infrastructure
 
 ### Shipping
 
-Tabble
+More releases.
 
-Lumina IQ
-
-Internal AI tools
+Fewer "coming soon" posts.
 
 </td>
 
@@ -255,11 +256,11 @@ Internal AI tools
 
 ### Scaling
 
-Product architecture
+Products.
 
-Deployment pipelines
+Infrastructure.
 
-Developer workflows
+The number of browser tabs I definitely don't need.
 
 </td>
 
@@ -267,11 +268,9 @@ Developer workflows
 
 ### Research
 
-RAG
+How AI should fit into software.
 
-Agent systems
-
-Human-computer interaction
+Not how software should revolve around AI.
 
 </td>
 
@@ -283,6 +282,7 @@ Human-computer interaction
 
 # Tech Arsenal
 
+
 ### Languages
 
 <p>
@@ -290,6 +290,15 @@ Human-computer interaction
 <img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp"/>
 
 </p>
+
+<sub>
+I don't believe in language wars.
+
+Every language is brilliant somewhere,
+and mildly annoying everywhere else.
+</sub>
+
+---
 
 ### Frontend
 
@@ -299,6 +308,14 @@ Human-computer interaction
 
 </p>
 
+<sub>
+Users remember how software feels.
+
+They rarely remember the framework.
+</sub>
+
+---
+
 ### Backend
 
 <p>
@@ -306,6 +323,15 @@ Human-computer interaction
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/>
 
 </p>
+
+<sub>
+If the backend is doing its job,
+nobody notices.
+
+That's usually a compliment.
+</sub>
+
+---
 
 ### AI
 
@@ -319,6 +345,14 @@ Human-computer interaction
 
 </p>
 
+<sub>
+AI shouldn't be the headline.
+
+It should quietly make the product smarter.
+</sub>
+
+---
+
 ### Database
 
 <p>
@@ -326,6 +360,14 @@ Human-computer interaction
 <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase"/>
 
 </p>
+
+<sub>
+Good databases answer questions.
+
+Great ones prevent them.
+</sub>
+
+---
 
 ### Cloud
 
@@ -335,6 +377,16 @@ Human-computer interaction
 
 </p>
 
+<sub>
+Deploy once.
+
+Sleep better.
+
+Repeat until something catches fire.
+</sub>
+
+---
+
 ### Tools
 
 <p>
@@ -342,6 +394,10 @@ Human-computer interaction
 <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode"/>
 
 </p>
+
+<sub>
+The best tool is whichever one lets me forget it exists.
+</sub>
 
 ---
 
@@ -363,6 +419,16 @@ Human-computer interaction
 
 </div>
 
+<sub>
+
+Numbers are nice.
+
+Repositories are nicer.
+
+Products people actually use are even better.
+
+</sub>
+
 ---
 
 # Open Source Activity
@@ -372,10 +438,17 @@ Human-computer interaction
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaiSamyukth/JaiSamyukth/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaiSamyukth/JaiSamyukth/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/JaiSamyukth/JaiSamyukth/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/JaiSamyukth/JaiSamyukth/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
+
+<sub>
+
+Apparently the green squares grow
+when you touch grass less.
+
+</sub>
 
 ---
 
@@ -405,9 +478,12 @@ Human-computer interaction
 
 <div align="center">
 
-> **Software should disappear.**  
-> The product should feel obvious.  
-> The infrastructure should feel invisible.
+> **Software shouldn't compete for attention.**
+>
+> It should quietly remove friction.
+>
+> If the AI gets all the praise,
+> the product probably isn't doing enough.
 
 </div>
 
@@ -418,7 +494,7 @@ Human-computer interaction
 <div align="center">
 
 <!--
-Replace the src below with your own API endpoint later.
+Replace this with your own SVG endpoint later.
 
 Example:
 
@@ -442,11 +518,15 @@ https://your-domain.com/api/quote.svg
 
 ### Design
 
-- Product Thinking
-- UX Systems
-- Brand Identity
-- Information Architecture
-- Human-Centered Interfaces
+Interfaces should explain themselves.
+
+If they need a presentation,
+they need another iteration.
+
+I have been known to spend an hour
+moving something by two pixels.
+
+Sometimes that's the feature.
 
 </td>
 
@@ -454,11 +534,17 @@ https://your-domain.com/api/quote.svg
 
 ### Engineering
 
-- AI Applications
-- Cloud Infrastructure
-- System Design
-- Workflow Automation
-- Deployment Architecture
+I enjoy building software.
+
+I enjoy deleting unnecessary software even more.
+
+Every project starts with
+
+*"There has to be a better way."*
+
+Most of them end with
+
+*"Why wasn't it built like this already?"*
 
 </td>
 
@@ -470,18 +556,32 @@ https://your-domain.com/api/quote.svg
 
 # Currently Shipping
 
-| Product | Stage | Focus |
-|:--|:--:|:--|
-| **Tabble** | 🟢 | Premium restaurant operating platform |
-| **Lumina IQ** | 🟢 | AI-native learning workspace |
-| **Revolvo** | 🟡 | Privacy-first enterprise AI |
-| **Genrec AI** | 🚀 | Building intelligent software products |
+| Product | Reality |
+|:--|:--|
+| **🍽 Tabble** | Trying to make restaurant software behave like good restaurant staff. Helpful, fast, and never in the way. |
+| **🧠 Lumina IQ** | Giving forgotten PDFs a second chance to be useful. |
+| **📚 Revolvo** | Teaching enterprise knowledge that the internet isn't mandatory. |
+| **🚀 Genrec AI** | Building products where AI is a capability, not the marketing department. |
 
 ---
 
 # Connect
 
 <div align="center">
+
+<p>
+
+If you're building something ambitious,
+
+questioning software everyone else accepts,
+
+or convinced there's a better way to do something...
+
+there's a decent chance we'll get along.
+
+</p>
+
+<br>
 
 <a href="https://www.jaisamyukth.com">
 <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -507,6 +607,8 @@ https://your-domain.com/api/quote.svg
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,40:2563EB,100:06B6D4"/>
 
-### *Building software that earns its place by solving real problems.*
+### *Everything here started with one question.*
+
+### **"There has to be a better way."**
 
 </div>
