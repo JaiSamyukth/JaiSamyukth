@@ -368,28 +368,6 @@ when you touch grass less.
 
 ---
 
-# Contribution Metrics
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaiSamyukth&theme=github_dark"/>
-
-<br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaiSamyukth&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaiSamyukth&theme=github_dark"/>
-
-<br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaiSamyukth&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaiSamyukth&theme=github_dark&utcOffset=5.5"/>
-
-</div>
-
----
-
 # Philosophy
 
 <div align="center">
@@ -409,14 +387,9 @@ when you touch grass less.
 
 <div align="center">
 
-<!--
-Replace this with your own SVG endpoint later.
 
-Example:
+![Quote](https://github-readme-quotes-bay.vercel.app/quote)
 
-https://your-domain.com/api/quote.svg
-
--->
 
 <img width="850" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
