@@ -47,10 +47,10 @@ so people don't have to.
 <br>
 
 ---
-
 # Featured Products
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -138,21 +138,24 @@ instead of scavenger hunts.
 
 </tr>
 
+<tr>
+
+<td colspan="2" valign="top">
 
 ## 🚀 Genrec AI
 
-We're not trying to build another AI company.
+Most startups start with one product.
 
-We're trying to build software that quietly happens to be intelligent.
+Genrec AI starts with one question.
 
-There's a difference.
+"What problem is worth solving next?"
 
 **Focus**
 
-- Products before platforms
-- Automation before repetition
-- Systems before hype
-- Real users before vanity metrics
+- AI-native products
+- Workflow automation
+- Intelligent systems
+- Privacy-conscious engineering
 
 **Stack**
 
@@ -163,7 +166,7 @@ There's a difference.
 
 **Status**
 
-🟢 Building today so tomorrow feels obvious.
+🟢 Building products we'd genuinely want to use ourselves.
 
 <br>
 
@@ -178,8 +181,8 @@ There's a difference.
 </td>
 
 </tr>
-</table>
 
+</table>
 ---
 
 # Current Focus
