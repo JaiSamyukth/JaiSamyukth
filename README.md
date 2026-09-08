@@ -89,10 +89,6 @@ shouldn't be the software.
 <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/JaiSamyukth">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
-</a>
-
 </td>
 
 <td width="50%" valign="top">
@@ -128,10 +124,6 @@ instead of scavenger hunts.
 
 <a href="#">
 <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/JaiSamyukth">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
